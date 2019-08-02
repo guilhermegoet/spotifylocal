@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/webapi">
+        <file>play-button.png</file>
+        <file>pause-play-button.png</file>
+        <file>remove-list.png</file>
+        <file>removemusic.png</file>
+        <file>playlist-folder.png</file>
+        <file>save-button.png</file>
+        <file>plus.png</file>
+        <file>search.png</file>
+        <file>pause-play-button_pause.png</file>
+        <file>pause-play-button-inicio.png</file>
+        <file>addmusic.png</file>
+    </qresource>
+</RCC>
